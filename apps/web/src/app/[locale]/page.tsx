@@ -25,7 +25,7 @@ export default async function Home({ params }: Props) {
   const { locale } = await params;
   
   // 启用静态渲染
-  setRequestLocale(locale as "en" | "zh" | "ja" | "ko");
+  setRequestLocale(locale as "en" | "zh" | "ja" | "ko" | "tr");
   
   const signupCount = await getWaitlistCount();
 
