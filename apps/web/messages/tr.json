@@ -1,0 +1,79 @@
+{
+  "metadata": {
+    "title": "OpenCut - Free Online Video Editor",
+    "description": "Create stunning videos with our free online video editor. No downloads required - edit videos directly in your browser."
+  },
+  "navigation": {
+    "home": "Ana sayfa",
+    "editor": "Düzenleyici",
+    "projects": "Projeler",
+    "contributors": "Katkıda sağlayanlar"
+  },
+  "common": {
+    "loading": "Yükleniyor...",
+    "save": "Kaydet",
+    "cancel": "İptal et",
+    "delete": "Sil",
+    "edit": "Düzenle",
+    "create": "Oluştur",
+    "close": "Kapat",
+    "open": "Aç",
+    "settings": "Ayarlar"
+  },
+  "home": {
+    "title": "Açık Kaynak",
+    "subtitle": "İşi halleden basit ama güçlü bir video düzenleyici. Her platformda çalışır.",
+    "getStarted": "Başlarken",
+    "learnMore": "Daha Fazla Bilgi",
+    "joinWaitlist": "Bekleme listesine katıl",
+    "joinWaitlistLoading": "Katılıyor...",
+    "emailPlaceholder": "E-posta adresinizi girin",
+    "peopleJoined": "{count} kişi zaten katıldı"
+  },
+  "editor": {
+    "title": "Video Düzenleyicisi",
+    "newProject": "Yeni Proje",
+    "openProject": "Proje Aç",
+    "export": "Dışa Aktar",
+    "import": "İçe Aktar",
+    "deleteElement": "Öğeyi sil (Delete)",
+    "deleteClip": "Klibi sil (Delete)",
+    "defaultText": "Varsayılan Yazı",
+    "testClip": "Test Klibi",
+    "muteTrack": "Parçayı Sustur",
+    "unmuteTrack": "Parçanın Sesini Aç",
+    "properties": {
+      "audio": "Ses Özellikleri",
+      "video": "Video Özellikleri",
+      "text": "Yazı Özellikleri"
+    }
+  },
+  "projects": {
+    "title": "Projelerim",
+    "noProjects": "Henüz proje yok",
+    "createFirst": "İlk projeni oluştur",
+    "renameProject": "Projeyi Yeniden Adlandır",
+    "renameProjectDesc": "Projeniz için yeni bir isim girin.",
+    "enterNewName": "Yeni bir isim girin",
+    "rename": "Yeniden Adlandır"
+  },
+  "messages": {
+    "emailRequired": "E-posta gereklidir",
+    "emailRequiredDesc": "Lütfen e-posta adresinizi girin.",
+    "welcomeWaitlist": "Bekleme listesine hoş geldiniz! 🎉",
+    "welcomeWaitlistDesc": "Çıkış yaptığımızda haberdar edileceksiniz.",
+    "oops": "Tüh!",
+    "somethingWrong": "Bir şeyler yanlış gitti. Lütfen tekrar deneyin.",
+    "networkError": "Ağ hatası",
+    "networkErrorDesc": "Lütfen bağlantınızı kontrol edin ve tekrar deneyin."
+  },
+  "footer": {
+    "description": "İşi halleden açık kaynaklı video düzenleyici. Basit, güçlü ve her platformda çalışır.",
+    "resources": "Kaynaklar",
+    "company": "Şirket",
+    "privacyPolicy": "Gizlilik politikası",
+    "termsOfUse": "Kullanım şartları",
+    "about": "Hakkında",
+    "copyright": "© 2025 OpenCut, Tüm Hakları Saklıdır"
+  }
+}
