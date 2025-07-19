@@ -24,7 +24,7 @@ export function LanguageSwitcher() {
   const pathname = usePathname();
 
   const handleChange = (newLocale: string) => {
-    router.replace(pathname, { locale: newLocale as "en" | "zh" | "ja" | "ko" });
+    router.replace(pathname, { locale: newLocale as "en" | "zh" | "ja" | "ko" | "tr" });
   };
 
   return (
